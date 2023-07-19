@@ -34,6 +34,6 @@
 </p>
 
 <p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=andreicotoi&show_icons=true&theme=radical" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=andreicotoi&show_icons=true&theme=react" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreicotoi&theme=react&layout=compact" />
 </p>
