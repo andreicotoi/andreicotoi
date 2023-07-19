@@ -1,14 +1,12 @@
 <h1 align="center">Hi, I'm Andrei 👋</h1>
-<h3 align="center">A passionate Javascript, React.js and Front-End (and a beginner designer) developer from Bucharest, Romania</h3>
+<h3 align="center">A passionate Javascript, React.js and front-end developer (beginner designer) from Bucharest, Romania</h3>
 
-- 🔭 I’m currently working on **[HomeInvest](https://homeinvest-ff755.web.app/)**
+- 🔭 currently working on **[HomeInvest](https://homeinvest-ff755.web.app/)**
 
-- 🌱 I’m currently learning **React.js, Typescript, Three.js**
+- 🌱 currently learning **React.js, Typescript, Three.js**
 
-- 📫 You can contact me at: **andreicottoi@gmail.com**
+- 📫 e-mail: **andreicottoi@gmail.com**
 
-
-<h3 align="center">Connect with me:</h3>
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreicotoi/)
