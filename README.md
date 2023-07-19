@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Andrei 👋</h1>
 <h3 align="center">A passionate Javascript, React.js and Front-End (and a beginner designer) developer from Bucharest, Romania</h3>
 
-- 🔭 I’m currently working on **HomeInvest** <a href="https://www.w3.org/html/](https://homeinvest-ff755.web.app/" target="_blank"> 
+- 🔭 I’m currently working on **[HomeInvest](https://homeinvest-ff755.web.app/)**
 
 - 🌱 I’m currently learning **React.js, Typescript, Three.js**
 
@@ -38,7 +38,3 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=BrantLauro&theme=react&show_icons=true&include_all_commits=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrantLauro&theme=react&layout=compact" />
 </p>
-
-------
-
-[Andrei Cotoi](https://github.com/andreicotoi)
