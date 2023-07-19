@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Andrei 👋</h1>
 <h3 align="center">A passionate Javascript, React.js and front-end developer (beginner designer) from Bucharest, Romania</h3>
 
-- 🔭 currently working on **[HomeInvest](https://homeinvest-ff755.web.app/)**
+- 🔭 currently working on the **[HomeInvest](https://homeinvest-ff755.web.app/)** project
 
 - 🌱 currently learning **React.js, Typescript, Three.js**
 
