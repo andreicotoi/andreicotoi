@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm Andrei 👋</h1>
 <h3 align="center">A passionate Javascript, React.js and front-end developer (beginner designer) from Bucharest, Romania</h3>
 
-[//]: <> (- 🔭 currently working on the **[HomeInvest](https://homeinvest-ff755.web.app/)** project)
-
-[//]: <> (- 🌱 currently learning **React.js, Typescript, Three.js**)
-
 - 📫 e-mail: **andreicottoi@gmail.com**
 
 <div align="center">
