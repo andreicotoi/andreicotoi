@@ -1,7 +1,6 @@
-<h1 align="center">Hi, I'm Andrei 👋</h1>
-<h3 align="center">A passionate Javascript, React.js and front-end developer (beginner designer) from Bucharest, Romania</h3>
-
-- 📫 e-mail: **andreicottoi@gmail.com**
+<h1 align="center">Hi! I'm Andrei. 👋</h1>
+<h3 align="center">Front-End Developer from Bucharest, Romania.</h3>
+<h3 align="center"><a href="mailto:andreicottoi@gmail.com">andreicottoi@gmail.com</a></h3>
 
 <div align="center">
 
@@ -23,13 +22,14 @@
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="angular" width="40" height="40"/>
 
-  <img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/b/be2f75f72751c11cbe1593c69a99a52900bf12cb.svg" alt="three" width="40" height="40"/>
+  <img src="https://global.discourse-cdn.com/flex035/uploads/threejs/original/2X/b/be2f75f72751c11cbe1593c69a99a52900bf12cb.svg" alt="threejs" width="30" height="40"/>
+
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/d3-js-icon.svg" alt="d3js" width="30" height="40"/>
   
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="php" width="40" height="40"/>
-  
+
 </p>
 
 <p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=andreicotoi&show_icons=true&theme=react" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreicotoi&theme=react&layout=compact" />
 </p>
