@@ -8,8 +8,6 @@
   
 </div>
 
-<h3 align="center">Languages and Tools:</h3>
-
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreicotoi&theme=react&layout=compact" />
 </p>
